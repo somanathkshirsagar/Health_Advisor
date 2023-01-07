@@ -1,0 +1,1 @@
+liver_data = "../datasets/indian_liver_patient.csv"
