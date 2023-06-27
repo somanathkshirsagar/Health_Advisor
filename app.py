@@ -22,7 +22,8 @@ def home():
 
     with col3:
         st.write("")
-    # st.image("logo/logo.png")
+    # st.image("/images
+/HA-New-Logo.png")
 
     st.markdown(
         '<p style="font-size:22px; text-align: center; color: black;font-size: 25px;">Improving Healthcare, Improving Lives, Bridging the gap between technology and health</p>',
